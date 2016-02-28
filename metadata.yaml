@@ -1,0 +1,34 @@
+_repo: Voyages-of-Samuel-De-Champlain-Volume-03_6825
+contributor:
+  translator:
+    agent_name: Otis, Charles P. (Charles Pomeroy)
+    alias: Otis, Charles Pomeroy
+    birthdate: 1840
+    deathdate: 1888
+    gutenberg_agent_id: '2131'
+    url: http://www.gutenberg.org/2009/agents/2131
+creator:
+  author:
+    agent_name: Champlain, Samuel de
+    birthdate: 1574
+    deathdate: 1635
+    gutenberg_agent_id: '2130'
+    url: http://www.gutenberg.org/2009/agents/2130
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_de_Champlain
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada'
+- !lcc 'F1001'
+- !lcsh 'America -- Discovery and exploration -- French'
+- !lcsh 'New France -- Discovery and exploration'
+title: Voyages of Samuel De Champlain — Volume 03
+url: http://www.gutenberg.org/ebooks/6825
