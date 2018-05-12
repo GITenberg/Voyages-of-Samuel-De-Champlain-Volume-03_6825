@@ -1,4 +1,5 @@
 _repo: Voyages-of-Samuel-De-Champlain-Volume-03_6825
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Otis, Charles P. (Charles Pomeroy)
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1888
     gutenberg_agent_id: '2131'
     url: http://www.gutenberg.org/2009/agents/2131
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Champlain, Samuel de
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2130
     wikipedia: http://en.wikipedia.org/wiki/Samuel_de_Champlain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6825#Voyages-of-Samuel-De-Champlain-Volume-03
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
